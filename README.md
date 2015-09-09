@@ -28,6 +28,36 @@
 ####How to setup CMake GUI to build the WinRT Projects
 
 Since CMake cannot create WinRT project files directly, the following procedure is required if you want to make changes to the opencv projects using CMake options. The basic procedure is:
+### OpenCV: Open Source Computer Vision Library
+
+####How to build OpenCV for WinRT
+1. open the binWinRT folder
+2. build the opencv.sln using VS2013
+3. 
+### OpenCV: Open Source Computer Vision Library
+
+####How to build OpenCV for WinRT
+1. open the binWinRT folder
+2. build the opencv.sln using VS2013
+
+####How to build OpenCV for Windows Phone 8.0
+1. open the binWP8 folder
+2. build the opencv.sln using VS2012 or VS2013
+####How to build OpenCV for Windows Phone 8.0
+1. open the binWP8 folder
+2. build the opencv.sln using VS2012 or VS2013
+####How to build OpenCV for Windows Phone 8.0
+1. open the binWP8 folder
+2. build the opencv.sln using VS2012 or VS2013
+####How to build OpenCV for Windows Phone 8.0
+1. open the binWP8 folder
+2. build the opencv.sln using VS2012 or VS2013
+3. ####How to build OpenCV for Windows Phone 8.0
+1. open the binWP8 folder
+2. build the opencv.sln using VS2012 or VS2013
+####How to setup CMake GUI to build the WinRT Projects
+
+Since CMake cannot create WinRT project files directly, the following procedure is required if you want to make changes to the opencv projects using CMake options. The basic procedure is:
 
 * Set up CMake with the correct parameters
 * Configure, Generate and Build Win32 projects
